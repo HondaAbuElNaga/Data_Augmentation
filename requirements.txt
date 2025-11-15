@@ -1,0 +1,6 @@
+python-dotenv
+pip install tqdm
+pip install openai
+pip install pydantic
+pip install json-repair
+pip install typing
