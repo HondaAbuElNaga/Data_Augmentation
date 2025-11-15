@@ -19,8 +19,8 @@ The final `sft.jsonl` file will contain 5 lines for each original Q&A pair (1 or
 <h3>1. Clone the repository:</h3>
 
 ```
-git clone https://github.com/ThomasJanssen-tech/Chatbot-with-RAG-and-LangChain.git
-cd Chatbot-with-RAG-and-LangChain
+git clone https://github.com/HondaAbuElNaga/Data_Augmentation.git
+
 ```
 
 <h3>2. Create a virtual environment</h3>
